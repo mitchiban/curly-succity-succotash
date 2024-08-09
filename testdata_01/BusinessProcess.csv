@@ -1,10 +1,4 @@
 businessprocess,description,businessprocess_id
-Process_1,"Process 1 description",1
-Process_2,"Process 2 description",2
-Process_3,"Process 3 description",3
-Process_4,"Process 4 description",4
-Process_5,"Process 5 description",5
-Process_6,"Process 6 description",6
-Process_7,"Process 7 description",7
-Process_8,"Process 8 description",8
-Process_9,"Process 9 description",9
+Process_1,Process 1 description,1
+Process_2,Process 2 description,2
+Process_3,Process 3 description,3
