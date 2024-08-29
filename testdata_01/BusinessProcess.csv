@@ -1,4 +1,4 @@
 businessprocess,description,businessprocess_id
-Process_1,Process 1 description,1
-Process_2,Process 2 description,2
-Process_3,Process 3 description,3
+Process_1,"Credit Card Delinquency - The credit card delinquency reporting process in retail banking provides crucial insights into the financial health and risk exposure of the bank's credit portfolio",1
+Process_2,"Risk Assessment and Monitoring - This process involves the identification, evaluation, and continuous monitoring of risks across the organization. It includes activities such as risk identification, risk quantification, setting risk thresholds, and ongoing monitoring against these thresholds.",2
+Process_3,"The credit decisioning process in retail banking determines the approval or rejection of loan applications, significantly influencing the bank's risk profile and profitability,",3
